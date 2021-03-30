@@ -75,4 +75,5 @@ public class PrimitiveTrainingTest extends MainTest {
             e.printStackTrace();
         }
     }
+
 }
